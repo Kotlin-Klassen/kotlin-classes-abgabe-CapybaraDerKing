@@ -1,9 +1,3 @@
-Bei Fragen gerne uns eine Mail Schreiben:
-mhottmann@stud.hs-heilbronn.de
-phottmann@stud.hs-heilbronn.de
-jwilleke@stud.hs-heilbronn.de
-
-
 1. Data Class für Bücher
 
     ->Erstelle eine Data Class Book mit den folgenden Eigenschaften:
@@ -11,6 +5,8 @@ jwilleke@stud.hs-heilbronn.de
         author: String,
         genre: Genre,
         status: BookStatus,
+
+
 
 2. Enum Class für Genre
 
